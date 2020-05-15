@@ -1,8 +1,5 @@
 Hello.
-<<<<<<< HEAD
-I'm fine
-=======
 I'm fine.
->>>>>>> sample
 I'm from Japan.
-My hobby is Game
+My hobby is Game.
+hogehogehoge
